@@ -1,0 +1,15 @@
+[{
+    "id": "1",
+    "name": "Tomate",
+    "price": 4.5,
+    "image": "/images/Tomates.jpg",
+    "description": "Tomate d'orgine Espagne",
+    "url": "http://snipcart-hugo.netlify.com"
+}, {
+    "id": "2",
+    "name": "Pomme de terre",
+    "description": "Pomme de terre d'origine France",
+    "price": 1.2,
+    "image": "/images/Pomme.jpg",
+    "url": "http://snipcart-hugo.netlify.com"
+}]
